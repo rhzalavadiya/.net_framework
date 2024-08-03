@@ -1,0 +1,7 @@
+D:\net_framework\console\emp_salary_bonus\emp_salary_bonus\bin\Debug\emp_salary_bonus.exe.config
+D:\net_framework\console\emp_salary_bonus\emp_salary_bonus\bin\Debug\emp_salary_bonus.exe
+D:\net_framework\console\emp_salary_bonus\emp_salary_bonus\bin\Debug\emp_salary_bonus.pdb
+D:\net_framework\console\emp_salary_bonus\emp_salary_bonus\obj\Debug\EmployeeDemo.csproj.AssemblyReference.cache
+D:\net_framework\console\emp_salary_bonus\emp_salary_bonus\obj\Debug\EmployeeDemo.csproj.CoreCompileInputs.cache
+D:\net_framework\console\emp_salary_bonus\emp_salary_bonus\obj\Debug\emp_salary_bonus.exe
+D:\net_framework\console\emp_salary_bonus\emp_salary_bonus\obj\Debug\emp_salary_bonus.pdb
