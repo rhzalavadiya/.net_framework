@@ -1,0 +1,7 @@
+D:\net_framework\console\CustomerBill\CustomerBill\bin\Debug\CustomerBill.exe.config
+D:\net_framework\console\CustomerBill\CustomerBill\bin\Debug\CustomerBill.exe
+D:\net_framework\console\CustomerBill\CustomerBill\bin\Debug\CustomerBill.pdb
+D:\net_framework\console\CustomerBill\CustomerBill\obj\Debug\CustomerBill.csproj.AssemblyReference.cache
+D:\net_framework\console\CustomerBill\CustomerBill\obj\Debug\CustomerBill.csproj.CoreCompileInputs.cache
+D:\net_framework\console\CustomerBill\CustomerBill\obj\Debug\CustomerBill.exe
+D:\net_framework\console\CustomerBill\CustomerBill\obj\Debug\CustomerBill.pdb

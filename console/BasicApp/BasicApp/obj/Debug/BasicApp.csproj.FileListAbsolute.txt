@@ -1,0 +1,14 @@
+D:\Rupali\C#_net\BasicApp\BasicApp\bin\Debug\BasicApp.exe.config
+D:\Rupali\C#_net\BasicApp\BasicApp\bin\Debug\BasicApp.exe
+D:\Rupali\C#_net\BasicApp\BasicApp\bin\Debug\BasicApp.pdb
+D:\Rupali\C#_net\BasicApp\BasicApp\obj\Debug\BasicApp.csproj.AssemblyReference.cache
+D:\Rupali\C#_net\BasicApp\BasicApp\obj\Debug\BasicApp.csproj.CoreCompileInputs.cache
+D:\Rupali\C#_net\BasicApp\BasicApp\obj\Debug\BasicApp.exe
+D:\Rupali\C#_net\BasicApp\BasicApp\obj\Debug\BasicApp.pdb
+D:\net_framework\console\BasicApp\BasicApp\bin\Debug\BasicApp.exe.config
+D:\net_framework\console\BasicApp\BasicApp\bin\Debug\BasicApp.exe
+D:\net_framework\console\BasicApp\BasicApp\bin\Debug\BasicApp.pdb
+D:\net_framework\console\BasicApp\BasicApp\obj\Debug\BasicApp.csproj.AssemblyReference.cache
+D:\net_framework\console\BasicApp\BasicApp\obj\Debug\BasicApp.csproj.CoreCompileInputs.cache
+D:\net_framework\console\BasicApp\BasicApp\obj\Debug\BasicApp.exe
+D:\net_framework\console\BasicApp\BasicApp\obj\Debug\BasicApp.pdb
